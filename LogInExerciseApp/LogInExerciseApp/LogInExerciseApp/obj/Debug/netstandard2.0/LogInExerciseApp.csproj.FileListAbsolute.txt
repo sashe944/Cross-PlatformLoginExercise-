@@ -1,0 +1,9 @@
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\bin\Debug\netstandard2.0\LogInExerciseApp.deps.json
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\bin\Debug\netstandard2.0\LogInExerciseApp.dll
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.csprojResolveAssemblyReference.cache
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.App.xaml.g.cs
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.MainPage.xaml.g.cs
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.Views.LoginPage.xaml.g.cs
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.AssemblyInfoInputs.cache
+C:\Users\Home\WindowsPhoneApps\LogInExerciseApp\LogInExerciseApp\LogInExerciseApp\obj\Debug\netstandard2.0\LogInExerciseApp.AssemblyInfo.cs
